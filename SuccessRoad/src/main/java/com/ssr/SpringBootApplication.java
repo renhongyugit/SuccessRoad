@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 
         public static void main(String[] args) {
             SpringApplication.run(SpringBootApplication.class, args);
+            System.out.println("测试git提交");
         }
     }
 
