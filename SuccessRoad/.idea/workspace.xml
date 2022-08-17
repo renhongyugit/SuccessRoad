@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="087d60e5-e025-4036-ad4f-a2255eb8d3c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SuccessRoad.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ssr/SpringBootApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/ssr/SpringBootApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +20,7 @@
     <option name="PATH_TO_GIT" value="D:\Program Files\Git\bin\git.exe" />
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="renhongyu &lt;renhongyu980524@163.com&gt;" />
         <option value="renhongyugit" />
         <option value="ren" />
         <option value="任泓宇" />
@@ -101,8 +93,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660739760668</updated>
-      <workItem from="1660739763404" duration="1186000" />
+      <workItem from="1660739763404" duration="1505000" />
     </task>
+    <task id="LOCAL-00001" summary="新建项目">
+      <created>1660741093311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660741093311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,10 +117,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1660739881559" />
-    <state x="446" y="117" width="1025" height="808" key="CommitChangelistDialog2" timestamp="1660741015064">
+    <state x="446" y="117" width="1025" height="808" key="CommitChangelistDialog2" timestamp="1660741090060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="446" y="117" width="1025" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1660741015064" />
+    <state x="446" y="117" width="1025" height="808" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1660741090060" />
     <state x="740" y="278" key="FileChooserDialogImpl" timestamp="1660740823657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -161,13 +161,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1660740958925" />
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660739873448">
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1660741117165">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1660739873448" />
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1660741117165" />
     <state x="749" y="322" key="git4idea.merge.GitPullDialog" timestamp="1660739918180">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="749" y="322" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660739918180" />
+    <state x="789" y="398" key="git4idea.rebase.GitRebaseDialog" timestamp="1660741278413">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="789" y="398" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1660741278413" />
   </component>
 </project>
